@@ -1,0 +1,50 @@
+[
+  {
+    "email_id": "TKT001",
+    "subject": "Amount debited but course not activated",
+    "body": "Hi, I paid ₹2999 yesterday for the AI course. The amount was deducted from my bank account, but I still cannot access the course. I logged in multiple times but the course is not visible in my dashboard. Please help me access the course immediately as I need to start learning.",
+    "contact_count": 1
+  },
+  {
+    "email_id": "TKT002",
+    "subject": "Videos are locked after purchase",
+    "body": "I purchased the Python course last week. The course appears in my dashboard, but all the videos are still locked and show a padlock icon. I tried logging out and logging back in, and even tried a different browser, but the issue persists. This is frustrating because I've already paid for the course.",
+    "contact_count": 1
+  },
+  {
+    "email_id": "TKT003",
+    "subject": "No response from support team",
+    "body": "I have sent two emails to support team already and still no response. It's been 3 days! If this is not resolved today, I will ask for a refund and consider legal action. Your company is unacceptable. I'm extremely frustrated and disappointed with your service.",
+    "contact_count": 3
+  },
+  {
+    "email_id": "TKT004",
+    "subject": "What is the duration of the Web Dev course?",
+    "body": "Hi, I'm interested in your Web Development course. How long does it typically take to complete? Also, what are the prerequisites and how much does it cost? I noticed you have both beginner and advanced versions. Which one should I take?",
+    "contact_count": 1
+  },
+  {
+    "email_id": "TKT005",
+    "subject": "Certificate name is incorrect",
+    "body": "I completed the Data Science course last month and received my certificate. However, my name appears as 'Jhon' instead of 'John' on the certificate. Can you please correct this? I need to submit this for my job application.",
+    "contact_count": 1
+  },
+  {
+    "email_id": "TKT006",
+    "subject": "Password reset not working",
+    "body": "I forgot my password and clicked 'Forgot Password'. I received an email with a reset link, but when I click it, I get an error saying 'Link expired'. I've tried 5 times now. How do I reset my password?",
+    "contact_count": 2
+  },
+  {
+    "email_id": "TKT007",
+    "subject": "Charged twice for one course",
+    "body": "I was charged ₹2999 twice for the same course! I can see two transactions in my bank statement with just 5 minutes difference. This is clearly a system error. I need an immediate refund for the duplicate charge. This is unacceptable!",
+    "contact_count": 1
+  },
+  {
+    "email_id": "TKT008",
+    "subject": "Course recommendation request",
+    "body": "Hi! I'm new to programming. Which course would you recommend for a complete beginner? I have about 1-2 hours per day to study. I'm mainly interested in learning Python and web development eventually. What's the best path?",
+    "contact_count": 1
+  }
+]
